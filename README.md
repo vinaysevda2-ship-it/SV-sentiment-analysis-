@@ -19,3 +19,13 @@ conda activate sentiment
 ``` bash 
 pip install -r requirements.txt 
 ```
+
+
+# dvc
+
+dvc init
+
+dvc repro 
+
+dvc dag 
+
